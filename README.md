@@ -1,9 +1,14 @@
 <h1 align="center">Hi there! I'm Jônatas👋</h1>
+
+<br>
+
 <p align="center" margin-bottom: 45px;>I'm Jônatas Venâncio de Oliveira, and I'm currently in the 5th semester of my Software Engineering degree. I'm 👨‍💻 passionate about building projects, 🚀 learning new technologies, and 🌱 improving my skills every day.</p>
 
 <div>
   <a href=https://github.com/jonatasvenancio>
 </div>
+
+<br>
 
 <div align="center">
   <img alt="Java" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -16,6 +21,3 @@
   <img alt="GitHub" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Git" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-##
-
