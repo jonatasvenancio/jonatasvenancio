@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! I'm Jônatas👋</h1>
+<h1 align="center">Eai? Eu sou o Jônatas👋</h1>
 
 <br>
 
-<p align="center" margin-bottom: 45px;>I'm Jônatas Venâncio de Oliveira, and I'm currently in the 5th semester of my Software Engineering degree. I'm 👨‍💻 passionate about building projects, 🚀 learning new technologies, and 🌱 improving my skills every day.</p>
+<p align="center" margin-bottom: 45px;>Beleza? Meu nome é Jônatas Venâncio de Oliveira e estou cursando o 5º semestre de Engenharia de Software. Sou apaixonado por construir projetos, aprender novas tecnologias e aprimorar minhas habilidades diariamente.</p>
 
 <div>
   <a href=https://github.com/jonatasvenancio>
