@@ -20,4 +20,5 @@
   <img alt="TypeScript" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="GitHub" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Git" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Git" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
