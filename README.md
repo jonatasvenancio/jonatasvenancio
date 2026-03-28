@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center" margin-bottom: 45px;>Atualmente eu estou cursando o 5º semestre de Engenharia de Software. Sou apaixonado por construir projetos, aprender novas tecnologias e aprimorar minhas habilidades diariamente.</p>
+<p align="center" margin-bottom: 45px;>Atualmente eu estou cursando o 6º semestre de Engenharia de Software. Sou apaixonado por construir projetos, aprender novas tecnologias e aprimorar minhas habilidades diariamente.</p>
 
 <div>
   <a href=https://github.com/jonatasvenancio>
