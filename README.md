@@ -10,7 +10,7 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <img alt="Java" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img alt="PostgreSQL" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -21,4 +21,4 @@
   <img alt="GitHub" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Git" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="Figma" height="40" width="40" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+</p>
