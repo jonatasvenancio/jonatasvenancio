@@ -7,6 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,html,css,js,github,git,figma,py" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,angular,postgres,github,git,figma" />
 </p>
